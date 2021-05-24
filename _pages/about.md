@@ -25,7 +25,7 @@ MSc International Securities, Investment & Banking (Distinction), 2015-2016
 BSc International Finance (Top 1%), 2011-2015
 
 * Top 1% Excellent Graduate in 2015
-* President of Student Union in 13-2014
+* President of Student Union in 2013-2014
 * Awarded "Excellent Student Grant" in 2013-2014
 * Awarded "Excellent Student Grant" in 2012-2013
 * Teaching volunteer of Youth Volunteer Association
