@@ -11,7 +11,7 @@ menu_settings:
     - title: 'Biography'
       url: '/'
     - title: 'Publications'
-      url: '/Publications/'
+      url: '/blog/'
     - title: 'Education'
       url: '/about'
     - title: 'Contact'
