@@ -1,7 +1,7 @@
 ---
 title: 'Financial Hedging, Corporate Cash Policy, and the Value of Cash'
 date: 2021-04-27 00:00:00
-description: This paper is a co-publication with Yeqin Zeng and Chao Yin, accepted by the British Journal of Managemnet. It has been presented on 2020 FMA Annual Conference, 2020 FMA Annual Conference, and 2020 World Finance Conference. It has been lised on the semi-finalist for the best paper from 2020 FMA Annual Conference. 
+description: This paper is a co-publication with Yeqin Zeng and Chao Yin, accepted by the British Journal of Management. It has been presented on 2020 FMA Annual Conference, 2020 FMA Annual Conference, and 2020 World Finance Conference. It has been lised on the semi-finalist for the best paper from 2020 FMA Annual Conference. 
 featured_image: '/images/hedging1.jpg'
 ---
 
