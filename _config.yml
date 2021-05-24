@@ -1,7 +1,7 @@
 site: Wenyi Sun
 
 url: https://wenyi-sun.github.io
-baseurl: /CV/
+baseurl: /Personal-Website/
 
 collections:
   pages:
