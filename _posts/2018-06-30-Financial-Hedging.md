@@ -23,6 +23,6 @@ Keyword lists:
 
 We require that the distance between any two keywords from the above three lists is less than 25 words within a paragraph. If a window with 25 words is found to contain keywords from the above three lists, it is called a "hit". For each firm--year observation, we count the “hit” frequency for each type of financial derivatives and the hedging position. We classify a firm as a derivatives user in the corresponding year if the number of  “hit” is positive, and a non-user otherwise. To enhance the accuracy of our identification, we drop a “hit” if the paragraph contains false-positive terms such as “in the future”, “forward-looking”, “not material”, “insignificant”, “do not/don't use”, “do not/don't enter”, “do not/don't cover”, or their past tense forms. 
 
-***Suggested citation: Sun, Wenyi and Yin, Chao and Zeng, Yeqin, Financial Hedging, Corporate Cash Policy, and the Value of Cash (April 10, 2020). British Journal of Management, forthcoming, Available at SSRN: https://ssrn.com/abstract=3572747 or http://dx.doi.org/10.2139/ssrn.3572747.
+**Suggested citation: Sun, Wenyi and Yin, Chao and Zeng, Yeqin, Financial Hedging, Corporate Cash Policy, and the Value of Cash (April 10, 2020). British Journal of Management, forthcoming, Available at SSRN: https://ssrn.com/abstract=3572747 or http://dx.doi.org/10.2139/ssrn.3572747.
 
 <a href="http://dx.doi.org/10.2139/ssrn.3572747" class="button button--large">View this paper</a>
