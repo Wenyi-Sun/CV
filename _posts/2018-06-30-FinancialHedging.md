@@ -5,8 +5,6 @@ description: This paper is a co-publication with Yeqin Zeng and Chao Yin. It has
 featured_image: '/images/hedging1.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
-
 ## Abtract 
 
 We study the implications of financial hedging for corporate cash policy and the value of cash holdings. Using a web crawler program to collect data on the use of financial derivatives between 1993 and 2016, we find that US public firms with financial hedging programs have smaller cash reserves but a higher value of cash than firms without hedging contracts in place. Our empirical results are robust when controlling for potential endogeneity issues, corporate governance, cash regimes, and alternative measures of cash holdings. Further, we find that financial hedging not only increases the investment sensitivity to internal cash, but also has a positive effect on investment efficiency. The positive effect of financial hedging on the value of cash is more pronounced for firms with more financial constraints, higher information asymmetry, and weaker corporate governance. Collectively, our paper highlights the importance of corporate cash policy as a channel through which financial risk management increases firm value.
