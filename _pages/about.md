@@ -8,7 +8,7 @@ featured_image: /images/UK2.jpg
 ### Durham Univerisity Business School 
 PhD candidate in Finance, 2018-Present 
 
-* President of Durham Doctoral Society,2019-2021 
+* President of Durham Doctoral Society, 2019-2021 
 
 ### ICMA Center, Henley Business School, University of Reading 
 PhD candidate, 2017-2018
